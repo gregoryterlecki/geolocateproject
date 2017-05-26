@@ -1,0 +1,8 @@
+run_erl [7722] Fri May 26 00:35:47 2017
+Args before exec of shell:
+run_erl [7722] Fri May 26 00:35:47 2017
+argv[0] = sh
+run_erl [7722] Fri May 26 00:35:47 2017
+argv[1] = -c
+run_erl [7722] Fri May 26 00:35:47 2017
+argv[2] = exec "/vagrant/geolocate/rel/geolocate/bin/geolocate" "console"

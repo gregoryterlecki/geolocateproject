@@ -1,0 +1,8 @@
+---
+- name: add erlang repo
+  apt: deb=https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb
+
+- name: install packages
+  apt: pkg={{ item }} state=latest update_cache=yes
+  with_items:
+    - erlang
