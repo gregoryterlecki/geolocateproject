@@ -1,3 +1,5 @@
+Below are the contents of the README.md file that came from the original repo I used for setting up a ubuntu 16.04 environment for phoenix development. I'll update this file soon so I can have an original description of my specific project. However, I'll note that this vagrant box + file was tremendously useful; I originally scowered the internet for quite a while to find a solid Vagrant box for Phoenix development. 
+
 Phoenix framework for Elixir development box
 ============================================
 
